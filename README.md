@@ -12,7 +12,7 @@ API Documentation can be found at  [http://localhost:4242/api-docs/](http://loca
 
 JSDocs can be found in the out/ folder, in the backend and frontend.
 
-Google Cloud implementation of back/frontend was done separately.
+Google Cloud deployment of back/frontend was done separately.
 
 Commands to start in backend folder:
  - npm install
