@@ -2,7 +2,7 @@
 
 End of Training MERN stack application
 
-Backend/cloud/config code was entirely written by me, frontend was handled by the rest of the team.
+Backend/cloud/config code was entirely written by me, frontend was handled by both me and the rest of the team.
 
 The goal was to create an application similar to Facebook, where users have relationships with other users, such as Follow/Unfollow and relationships with posts, such as Like/Unlike & Comment/Uncomment. The CRUD operations for users and posts goes without saying. Picture upload for user profile and specific posts is also available as a feature. Added an admin panel where the content and users of the platform can be moderated.
 
